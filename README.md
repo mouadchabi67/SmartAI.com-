@@ -1,2 +1,2 @@
 # SmartAI.com-
-This AI I will help you everything 
+This AI  will help you everything 
